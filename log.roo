@@ -19,3 +19,33 @@ security setup
 // [failed] perform tests
 // [failed] perform tests
 // Spring Roo 1.3.1.RC1 [rev 4877cfb] log closed at 2015-03-12 19:48:49
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-03-12 20:47:00
+// [failed] perform tests
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-03-12 20:48:39
+// [failed] perform tests
+help
+exit
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log closed at 2015-03-12 20:53:08
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-03-12 20:58:12
+// [failed] perform tests
+exit
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log closed at 2015-03-12 20:58:17
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-03-12 20:58:47
+perform tests
+exit
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log closed at 2015-03-12 21:00:42
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-03-12 21:01:03
+perform tests
+exit
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log closed at 2015-03-12 21:02:58
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-03-12 21:03:14
+perform tests
+help
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-03-12 21:07:09
+perform eclipse
+exit
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log closed at 2015-03-12 21:11:28
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-03-12 21:21:48
+// [failed] perform tests
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-03-12 21:22:50
+perform tests
